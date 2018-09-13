@@ -2,6 +2,7 @@ package com.xiao.test;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -13,5 +14,9 @@ public class MainActivity extends AppCompatActivity {
         //测试提交版本2
         //测试提交版本3
         //测试提交版本4
+    }
+
+    private void test() {
+        Log.i("daying", "打印方法1");
     }
 }
