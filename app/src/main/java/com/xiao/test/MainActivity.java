@@ -2,7 +2,6 @@ package com.xiao.test;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -16,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void test() {
-        Log.i("daying", "打印方法");
+
     }
 
     private void test2() {
