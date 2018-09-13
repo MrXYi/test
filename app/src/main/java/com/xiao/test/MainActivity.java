@@ -12,4 +12,8 @@ public class MainActivity extends AppCompatActivity {
         //测试提交版本1
         //测试提交版本2
     }
+
+    private void test2() {
+        
+    }
 }
