@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void test2() {
-        Log.i("daying", "打印方法1");
+        Log.i("daying", "打印方法");
     }
 }
