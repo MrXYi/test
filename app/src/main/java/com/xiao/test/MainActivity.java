@@ -11,6 +11,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //测试提交版本1
         //测试提交版本2
-        //测试提交版本3
     }
 }
